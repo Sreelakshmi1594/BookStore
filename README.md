@@ -13,8 +13,11 @@ Once the book/s is/are fixed User can add to cart and checkout.
 
 # Technologies
   Frontend: Angular - HTML, CSS, TypeScript
+  
   Backend: Spring, Java, Spring Boot, Spring Data, PostgreSQL 
+  
   Cloud Services: AWS S3, RDS, EC2
+  
   Test: JUnit, Mockito
  
  # URL for Frontend
