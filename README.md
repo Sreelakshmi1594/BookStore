@@ -17,5 +17,5 @@ Once the book/s is/are fixed User can add to cart and checkout.
   Cloud Services: AWS S3, RDS, EC2
   Test: JUnit, Mockito
  
- # URL for Backend
- https://github.com/Sreelakshmi1594/BookStore
+ # URL for Frontend
+ hhttps://github.com/Sreelakshmi1594/BookStoreFrontend
