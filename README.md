@@ -21,4 +21,4 @@ Once the book/s is/are fixed User can add to cart and checkout.
   Test: JUnit, Mockito
  
  # URL for Frontend
- https://github.com/Sreelakshmi1594/BookStoreFrontend
+ https://github.com/Sreelakshmi1594/BookStoreFrontend/tree/main/ShopApp-frontend
